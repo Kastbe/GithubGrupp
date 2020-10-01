@@ -25,7 +25,7 @@ namespace Grupp4
           int Alder = int.Parse(Console.ReadLine());
             Console.WriteLine("Du är " + Alder + " år gammal.");
 
-
+            Console.WriteLine("Upp till hithub");
         }
     }
 }
