@@ -18,6 +18,14 @@ namespace Grupp4
 
             //Kalle
             Console.WriteLine("Summa: " + totalNumber);
+
+            //Onur
+            
+            Console.WriteLine("Mata in ålder:");
+          int Alder = int.Parse(Console.ReadLine());
+            Console.WriteLine("Du är " + Alder + " år gammal.");
+
+
         }
     }
 }
