@@ -26,6 +26,10 @@ namespace Grupp4
             Console.WriteLine("Du är " + Alder + " år gammal.");
 
             Console.WriteLine("Upp till hithub");
+
+            //onur
+            Console.WriteLine("onurs push");
+
         }
     }
 }
