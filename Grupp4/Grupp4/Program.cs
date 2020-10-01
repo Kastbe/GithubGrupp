@@ -9,6 +9,9 @@ namespace Grupp4
             int number1 = 5;
             //onur
             int number2 = 4;
+
+            // Niclas
+            int number3 = 3;
         }
     }
 }
