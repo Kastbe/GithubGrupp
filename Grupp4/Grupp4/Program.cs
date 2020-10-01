@@ -7,6 +7,8 @@ namespace Grupp4
         static void Main(string[] args)
         {
             int number1 = 5;
+            //onur
+            int number2 = 4;
         }
     }
 }
