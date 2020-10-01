@@ -6,7 +6,7 @@ namespace Grupp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int number1 = 5;
         }
     }
 }
